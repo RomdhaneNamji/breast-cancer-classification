@@ -1,0 +1,13 @@
+{
+  "model": "Logistic Regression",
+  "n_test": 114,
+  "accuracy": 0.9649122807017544,
+  "precision_malignant": 0.975,
+  "recall_malignant": 0.9285714285714286,
+  "f1_malignant": 0.9512195121951219,
+  "roc_auc": 0.996031746031746,
+  "tn": 71,
+  "fp": 1,
+  "fn": 3,
+  "tp": 39
+}

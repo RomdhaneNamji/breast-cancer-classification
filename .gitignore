@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Secrets (never commit) ---
+.env
+kaggle.json
+
+# --- Data: raw/processed files are re-created by the scripts ---
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- Trained model binaries (pickles are version-specific; re-create with src.train) ---
+results/models/*
+!results/models/.gitkeep
+*.pkl
+*.joblib
+
+# NOTE: *.csv is deliberately NOT ignored globally.
+# results/metrics/cv_results.csv is a small, human-readable result that SHOULD be committed.
+# Figures (results/figures/*.png) are also committed so the README renders on GitHub.
