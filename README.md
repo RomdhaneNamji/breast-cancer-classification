@@ -1,9 +1,8 @@
 # Comparative Study of Machine Learning Algorithms for Breast Cancer Classification
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-)
 A reproducible scikit-learn workflow that classifies breast masses as **benign or malignant**
 from nuclear features computed on fine-needle-aspirate (FNA) images, using the
 Breast Cancer Wisconsin (Diagnostic) dataset. Three classifiers are compared with repeated
