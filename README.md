@@ -127,7 +127,7 @@ exact ratio depends on the machine. A NumPy-vs-pandas group-mean micro-benchmark
 ## Reproducibility
 
 ```bash
-git clone https://github.com/<your-username>/breast-cancer-classification-wdbc.git
+git clone https://github.com/RomdhaneNamji/breast-cancer-classification-wdbc.git
 cd breast-cancer-classification-wdbc
 
 python -m venv .venv
@@ -205,5 +205,4 @@ UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B (CC BY 4.0).
 Code: MIT — see [LICENSE](LICENSE).
 
 ## Author
-
-[Your Name] — [MSc programme, university] · [LinkedIn / email]
+Romdhane MRAD NAMJI MSc Bioinformatics Candidate | Pázmány Péter Catholic University
