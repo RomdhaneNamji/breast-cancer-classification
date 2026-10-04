@@ -39,3 +39,4 @@ results/models/*
 # NOTE: *.csv is deliberately NOT ignored globally.
 # results/metrics/cv_results.csv is a small, human-readable result that SHOULD be committed.
 # Figures (results/figures/*.png) are also committed so the README renders on GitHub.
+*:Zone.Identifier
