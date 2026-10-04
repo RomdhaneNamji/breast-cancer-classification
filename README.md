@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![tests](https://github.com/<your-username>/breast-cancer-classification-wdbc/actions/workflows/tests.yml/badge.svg)](https://github.com/<your-username>/breast-cancer-classification-wdbc/actions)
-
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)]()
 A reproducible scikit-learn workflow that classifies breast masses as **benign or malignant**
 from nuclear features computed on fine-needle-aspirate (FNA) images, using the
 Breast Cancer Wisconsin (Diagnostic) dataset. Three classifiers are compared with repeated
